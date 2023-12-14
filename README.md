@@ -3,6 +3,7 @@
 [![Stargazers][nest-stars-shield]][nest-stars]
 [![Issues][nest-issues-shield]][nest-issues]
 [![MIT License][nest-license-shield]][license]
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffedi-dayeg%2Fcomplete-nestjs-boilerplate.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffedi-dayeg%2Fcomplete-nestjs-boilerplate?ref=badge_shield)
 
 [![NestJs][nestjs-shield]][ref-nestjs]
 [![NodeJs][nodejs-shield]][ref-nodejs]
@@ -411,6 +412,9 @@ const mongooseOptions: MongooseModuleOptions = {
 ## License
 
 Distributed under [MIT licensed][license].
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffedi-dayeg%2Fcomplete-nestjs-boilerplate.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffedi-dayeg%2Fcomplete-nestjs-boilerplate?ref=badge_large)
 
 ## Contribute
 
